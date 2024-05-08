@@ -1,4 +1,4 @@
-# streaming-02-multiple-processes
+# streaming-02-multiple-processes - Nic Vetter
 
 > Multiple processes accessing a shared resource concurrently
 
@@ -128,6 +128,7 @@ Do a web search on the sqlite3 'database is locked' error.
 
 - What do you learn?
 - Once a process fails, it crashes the main process and everything stops. 
+- When the first happened I thought I did something wrong, but I guess it was all a part of Dr. Case's plan. haha
 
 ### Deadlock
 
